@@ -67,4 +67,4 @@ var table = new Plottable.Components.Table([
     [null, null, xLabelCelsius, null, null]
 ]);
 
-table.renderTo("svg#example");
+table.renderTo("div#example");
