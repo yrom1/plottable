@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "browserify": "^17.0.0",
+    "esmify": "^2.1.1",
+    "plottable": "^3.13.0"
+  },
+  "name": "plottable",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yrom1/plottable.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yrom1/plottable/issues"
+  },
+  "homepage": "https://github.com/yrom1/plottable#readme",
+  "description": ""
+}
