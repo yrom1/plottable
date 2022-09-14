@@ -1,8 +1,9 @@
 {
   "dependencies": {
     "browserify": "^17.0.0",
+    "document-ready": "^2.0.2",
     "esmify": "^2.1.1",
-    "plottable": "^3.13.0"
+    "plottable": "^2.9.0"
   },
   "name": "plottable",
   "version": "1.0.0",
